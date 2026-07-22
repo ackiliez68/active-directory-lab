@@ -87,4 +87,4 @@ Isolated on an internal Hyper-V switch with NAT — the lab never touches the re
 
 ## A note on how this was built
 
-This is a real lab I built and ran end to end; the screenshots are from my own environment. I used AI as a study aid to check my steps and help structure the notes, the same way I'd use documentation — but the build, the commands, and the troubleshooting are mine.
+This documentation was written with the help of AI. The Active Directory lab itself — every VM, every command, every fix — was built and run by me.
